@@ -5,45 +5,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abc2bf88-3089-41fe-a0d4-b391d14c1b4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/controllers/Controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/models/Category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/models/Conto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/models/PaymentOptions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/models/Transaction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/models/defaultData/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/models/defaultData/payOptions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/models/jsonManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/view/CategoryUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/view/ContoUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvcCode/view/ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/controllers/Controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/models/Category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/models/Conto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/models/PaymentOptions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/models/Transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/models/defaultData/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/models/defaultData/payOptions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/models/jsonManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/view/CategoryUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/view/ContoUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvcCode/view/ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2v64lqtHpeWiiDyU4uYKxPjr1hS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.NodeJS.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
+    "ts.external.directory.path": "D:\\Developing\\js\\andrew\\stockFlow\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Developing\js\andrew\stockFlow" />
+      <recent name="D:\Developing\js\andrew\stockFlow\public" />
+      <recent name="D:\Developing\js\andrew\stockFlow\mvcCode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="NodeJSConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NodeJS" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc2bf88-3089-41fe-a0d4-b391d14c1b4b" name="Changes" comment="" />
+      <created>1743452343163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743452343163</updated>
+      <workItem from="1743452344444" duration="1001000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

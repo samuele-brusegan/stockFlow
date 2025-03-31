@@ -1,0 +1,46 @@
+.barra-container {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.barra {
+    height: 100%;
+    transition: width 0.5s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    position: absolute; /* Aggiunto per sovrapporre il testo */
+}
+
+.barra-entrata {
+    background-color: lightgreen;
+    left: 0;
+}
+
+.barra-uscita {
+    background-color: red;
+    right: 0;
+}
+
+.testo-entrata, .testo-uscita {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+}
+
+.testo-entrata {
+    left: 10px;
+}
+
+.testo-uscita {
+    right: 10px;
+}
